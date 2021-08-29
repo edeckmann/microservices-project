@@ -1,4 +1,4 @@
-# Projeto com arquiterura em microsserviços
+# Projeto com arquitetura em microsserviços
 
 Santander Bootcamp | Fullstack Developer
 
