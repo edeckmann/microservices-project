@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigServerApplication<config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "eng.elemar.configserver.ConfigServerApplication",
+            "projectName": "config-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GatewayApplication<gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "eng.elemar.gateway.GatewayApplication",
+            "projectName": "gateway",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductCatalogApplication<product-catalog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "eng.elemar.productcatalog.ProductCatalogApplication",
+            "projectName": "product-catalog",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ServiceDiscoveryApplication<service-discovery>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "eng.elemar.servicediscovery.ServiceDiscoveryApplication",
+            "projectName": "service-discovery",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ShoppingCartApplication<shopping-cart>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "eng.elemar.shoppingcart.ShoppingCartApplication",
+            "projectName": "shopping-cart",
+            "args": ""
+        }
+    ]
+}
